@@ -1,6 +1,6 @@
 ## TinkerDemo
 
-[Walle多渠道打包](README.md)
+[Walle多渠道打包](Walle.md)
 
 
 2016年6月微信团队开源了热修复组件tinker,易用且功能强大，能够让应用在不需重新下载安装的情况下实现BUG修复更新。
